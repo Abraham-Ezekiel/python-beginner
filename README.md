@@ -1,1 +1,1 @@
-# offensive-python
+# python-beginner
